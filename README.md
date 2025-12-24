@@ -46,8 +46,7 @@
 1.  **数据库初始化**
     ```sql
     -- 执行项目中的 SQL 脚本
-    -- factory_db.sql (基础表结构)
-    -- 123.sql (业务表及初始数据)
+    -- employee_attendance.sql (基础表结构)
     ```
 
 2.  **后端启动**
