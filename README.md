@@ -38,7 +38,7 @@
 
 ### 环境准备
 1.  **Java环境**: JDK 1.8+
-2.  **数据库**: MySQL 8.0+，创建名为 `factory_db` 的数据库
+2.  **数据库**: MySQL 8.0+，创建名为 `employee_attendance` 的数据库
 3.  **Node.js**: 12.x+
 4.  **Maven**: 3.6+
 
